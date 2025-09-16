@@ -1,7 +1,7 @@
 {
-    "name": "terminal-logger",
+    "name": "logger",
     "version": "1.0.0",
-    "description": "Terminal-based note-taking and logging application",
+    "description": "A simple terminal-based logging tool for quick log entries.",
     "scripts": {
         "server": "bun run server/server.ts --port 3005",
         "cli": "bun run server/cli/cli.ts",
