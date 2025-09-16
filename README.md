@@ -7,6 +7,8 @@ A simple terminal-based logging tool for quick log entries.
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+![Demo](./demo.mp4)
+
 ## Quick Start
 
 1. **Install dependencies:**
